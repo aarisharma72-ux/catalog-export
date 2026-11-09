@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "sku": "DSK-104",
+      "name": "Desk tray",
+      "category": "office",
+      "price": "18.50",
+      "stock": 24,
+      "active": true
+    },
+    {
+      "sku": "LMP-208",
+      "name": "Task lamp",
+      "category": "lighting",
+      "price": "46",
+      "stock": 8,
+      "active": true
+    },
+    {
+      "sku": "PAD-012",
+      "name": "Felt desk pad",
+      "category": "office",
+      "price": "22.95",
+      "stock": 0,
+      "active": false
+    }
+  ]
+}
